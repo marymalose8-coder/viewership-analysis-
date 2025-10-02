@@ -2,6 +2,13 @@
 
 https://dbc-4d26d5e5-6b99.cloud.databricks.com/editor/notebooks/2610908136501281?o=3119797723403603
 
+Project overview analysis this dataset to uncover insights like most watched platform.
+
+Objectives
+
+EDA
+
+Through analysis each task one must explain the code as well as the expacted outcome.
 
 # Tools and Libraries 
 Python
