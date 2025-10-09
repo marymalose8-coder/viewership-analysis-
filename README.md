@@ -17,9 +17,8 @@ Panda
 
 Numpy
 
-Matplotib & seaborn
+Matplotlib 
 
-Jupyter notebook
 
 # Dataset
 
